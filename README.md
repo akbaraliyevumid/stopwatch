@@ -5,7 +5,7 @@ A new Flutter project.
 ![alt text](scrn/1.jpg "1st page" | width=50)
 ![alt text](scrn/2.jpg "1st page")
 
-<img scrn="1.jpg" alt="drawing" width="50"/>
+<img scrn="1.jpg" width="50"/>
 
 ## Getting Started
 
