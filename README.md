@@ -5,6 +5,8 @@ A new Flutter project.
 ![alt text](scrn/1.jpg)
 ![alt text](scrn/2.jpg)
 
+<img src="scrn/1" width="48">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
