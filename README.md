@@ -1,6 +1,8 @@
 # stopwatch
 
 A new Flutter project.
+![alt text](scrn/1.jpg "1st page")
+![alt text](scrn/2.jpg "1st page")
 
 ## Getting Started
 
