@@ -5,7 +5,7 @@ A new Flutter project.
 ![alt text](scrn/1.jpg)
 ![alt text](scrn/2.jpg)
 
-<img src="scrn/1" width="48">
+I have been problems with resizing screens
 
 ## Getting Started
 
