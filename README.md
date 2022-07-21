@@ -2,10 +2,8 @@
 
 A new Flutter project.
 
-![alt text](scrn/1.jpg "1st page" =100x20)
-![alt text](scrn/2.jpg "1st page")
-
-![](scrn/1.jpg =100x20)
+![alt text](scrn/1.jpg)
+![alt text](scrn/2.jpg)
 
 ## Getting Started
 
