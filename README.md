@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![alt text](scrn/1.jpg "1st page"|width=50)
+![alt text](scrn/1.jpg "1st page" | width=50)
 ![alt text](scrn/2.jpg "1st page")
 
 ## Getting Started
